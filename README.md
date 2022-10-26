@@ -1,4 +1,4 @@
-# Debugging On/Off made Simple
+# Serial debugging made Simple
 #### A quick and easy project to demonstrate turning on/off debugging to Serial
 
 ##### 1. Add the isDegug.h file to your include file
