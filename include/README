@@ -1,3 +1,3 @@
 For debugging ensure the isDebug is set to true.
 
-To use in any file, simply include this file in the required file. 
+To use simply include this file in where required. 
